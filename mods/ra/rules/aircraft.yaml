@@ -241,7 +241,7 @@ HELI:
 		Cost: 2000
 	Tooltip:
 		Name: Longbow
-		Description: Helicopter Gunship with AG Missiles.\n  Strong vs Tanks\n  Weak vs Infantry
+		Description: Helicopter Gunship with Missiles.\n  Strong vs Tanks\n  Weak vs Infantry
 	Health:
 		HP: 120
 	Armor:
